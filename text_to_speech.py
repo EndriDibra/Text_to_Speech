@@ -1,3 +1,5 @@
+# Author: Endri Dibra
+
 # Using the required libraries
 from gtts import gTTS
 from playsound import playsound
