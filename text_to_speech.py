@@ -7,6 +7,7 @@ audio = 'speech.mp3'
 language = "en"
 
 # Taking input:(text) from the user
+print("Please enter your text")
 text = input()
 
 # Initializing input, language
