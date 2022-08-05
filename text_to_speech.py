@@ -2,6 +2,7 @@
 from gtts import gTTS
 from playsound import playsound
 
+
 # Initializing the type of audio and language
 audio = 'speech.mp3'
 language = "en"
